@@ -1,4 +1,4 @@
-## Olá, eu sou o Jonatas Weverton, Desenvolvedor Front-End Web e Mobile!
+## Olá, eu sou o Jonatas Weverton, Desenvolvedor Full-Stack Jr Web e Mobile!
 
 <div align="center">
   <a href="https://github.com/JonatasWevertom">
